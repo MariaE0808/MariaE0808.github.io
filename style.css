@@ -1,9 +1,24 @@
-img {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
+a {
+  color: black;
+}
 
-  margin: auto;
+button:hover {
+color: orange;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+p:hover {
+color: orange;
+}
+
+button {
+  font-family: Helvetica;
+}
+
+
+a:hover {
+color: orange;
 }
